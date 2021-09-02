@@ -1,4 +1,4 @@
-# Software Engineer + Full Stack Developer
+ Software Engineer + Full Stack Developer
 
 
 ### Featured Projects
